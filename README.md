@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a Russian self-study hobbyist with poor English knowledge, but still trying to think on it without Online Translators.
-- My main language TypeScript, and I'm currently infatuated by Rust Programming Language.
+- My main languages is TypeScript & Rust Programming Language
 - Mainly, I'm making tools for yourself and friends, but sometimes I'm making more useful things.
 
 <!--
